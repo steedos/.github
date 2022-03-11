@@ -1,6 +1,6 @@
 # 👋 Welcome to Steedos!
 
-> Steedos DevOps Platform is open source alterative to [Salesforce Developer Experience (DX)](https://developer.salesforce.com/developer-centers/developer-experience). Develop and manage custom apps with low-code across their entire life cycle, achieve new levels of agility.
+> Steedos DevOps Platform is open source alterative to [Salesforce Developer Experience (DX)](https://developer.salesforce.com/developer-centers/developer-experience). Develop and manage enterprise apps with low-code across their entire life cycle, achieve new levels of agility.
 
 Never tried [Steedos](https://www.steedos.com/)? Click the button below to start your first development environment:
 
