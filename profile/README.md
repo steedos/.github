@@ -4,7 +4,7 @@
 
 Never tried [Steedos](https://www.steedos.com/)? Click the button below to start your first development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/steedos/steedos-project-template)
+[![Start on an project template](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/steedos/steedos-project-template)
 
 * 🗺️ Interested in what new features are coming up next? [Checkout Steedos's Product Roadmap](https://github.com/orgs/steedos/projects/2/views/2)
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/steedos/steedos-platform/issues/new?assignees=&labels=&template=feature_request.md&title=)
