@@ -4,12 +4,11 @@
 
 Never tried [Steedos](https://www.steedos.com/)? Click the button below to start your first development environment:
 
-[![Start on an project template](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/steedos/steedos-project-template)
+[![Start on an project template](https://github.com/steedos/steedos-project-template)
 
-* 🗺️ Interested in what new features are coming up next? [Checkout Steedos's Product Roadmap](https://github.com/orgs/steedos/projects/2/views/2)
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/steedos/steedos-platform/issues/new?template=--feature-request.yml)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/steedos/steedos-platform/issues/new?template=--bug-report.yml)
-* 🦩 Feeling social? [Join our steedos community](https://community.steedos.cn)
+* 🦩 Feeling social? [Go to steedos discussions](https://github.com/orgs/steedos/discussions)
 
 #### Recent docs
 
