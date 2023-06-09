@@ -1,4 +1,4 @@
-# 👋 Steedos Low-Code PaaS Platform
+# 👋 Steedos Low-code PaaS Platform
 
 Steedos is a low-code PaaS platform that enables businesses to rapidly build and deploy enterprise-grade applications. With its intuitive drag-and-drop interface, Steedos empowers both developers and non-technical users to create custom applications without the need for extensive coding knowledge.
 
