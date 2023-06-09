@@ -1,8 +1,8 @@
-# 👋 Welcome to Low-Code DevOps Platform!
+# 👋 Steedos Low-Code PaaS Platform
 
-> Steedos DevOps Platform is open source alterative to [Salesforce Developer Experience (DX)](https://developer.salesforce.com/developer-centers/developer-experience). Develop and manage enterprise apps with low-code across their entire life cycle, achieve new levels of agility.
+Steedos is a low-code PaaS platform that enables businesses to rapidly build and deploy enterprise-grade applications. With its intuitive drag-and-drop interface, Steedos empowers both developers and non-technical users to create custom applications without the need for extensive coding knowledge.
 
-Never tried [Steedos](https://www.steedos.com/)? Click the button below to start your first development environment:
+Never tried [Steedos](https://docs.steedos.com/)? Click the button below to start your first development environment:
 
 [Start on an project template](https://github.com/steedos/steedos-project-template)
 
@@ -10,9 +10,4 @@ Never tried [Steedos](https://www.steedos.com/)? Click the button below to start
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/steedos/steedos-platform/issues/new?template=--bug-report.yml)
 * 🦩 Feeling social? [Go to steedos discussions](https://github.com/orgs/steedos/discussions)
 
-#### Recent docs
-
-- [Introducing DevOps Platform for Low Code](https://www.steedos.cn/docs/deploy/devops)
-- [Low Code DevOps Platform Protocol](https://www.low-code-protocol.com/)
-
-[View all docs &rarr;](https://www.steedos.com/docs)
+[View all docs &rarr;](https://docs.steedos.com)
