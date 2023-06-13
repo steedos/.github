@@ -2,12 +2,10 @@
 
 Steedos is a low-code PaaS platform that enables businesses to rapidly build and deploy enterprise-grade applications. With its intuitive drag-and-drop interface, Steedos empowers both developers and non-technical users to create custom applications without the need for extensive coding knowledge.
 
-## Key Highlights
-
-- Low-code development: Steedos allows you to create custom applications without the need for extensive coding knowledge. This reduces development time and costs significantly.
-- Open-source: Steedos is an open-source platform, which means you have complete control over the code and can modify it to fit your specific needs.
-- Scalable: Steedos is built on a scalable architecture, which means it can grow with your business and handle large volumes of data and users.
+- Built-in data management and workflow automation
 - Secure: Steedos provides enterprise-level security features to ensure your data is protected at all times.
+- Low-code development: Drag-and-drop interface for building applications - amis
+- Integration with popular business tools and services - n8n
 
 Never tried [Steedos](https://docs.steedos.com/)? Click the button below to start your first development environment:
 
