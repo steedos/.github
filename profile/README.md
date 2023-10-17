@@ -10,8 +10,6 @@ Steedos is a low-code PaaS platform that enables businesses to rapidly build and
 
 Never tried [Steedos](https://docs.steedos.com/)? Click the button below to start your first development environment:
 
-[Start on an project template](https://github.com/steedos/steedos-project-template)
-
 * 💡 Do you have a feature request in mind? [Open a feature request](https://github.com/steedos/steedos-platform/issues/new?template=--feature-request.yml)
 * 🐛 Did you run into a bug? [Open a bug report](https://github.com/steedos/steedos-platform/issues/new?template=--bug-report.yml)
 * 🦩 Feeling social? [Go to steedos discussions](https://github.com/orgs/steedos/discussions)
